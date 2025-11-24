@@ -1,4 +1,6 @@
 # Pico_MachineLearn-
+【很low的工程，无需研究】
+
 基于Pico VR SDK 开发的简单VR场景
 
 可以在release区域去下载
